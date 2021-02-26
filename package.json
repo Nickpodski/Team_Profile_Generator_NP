@@ -1,0 +1,29 @@
+{
+  "name": "team_profile_generator_np",
+  "version": "1.0.0",
+  "description": "Program to generate a html for a team profile page.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickpodski/Team_Profile_Generator_NP.git"
+  },
+  "author": "Nick Podniestrzanski",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Nickpodski/Team_Profile_Generator_NP/issues"
+  },
+  "homepage": "https://github.com/Nickpodski/Team_Profile_Generator_NP#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
