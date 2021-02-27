@@ -22,6 +22,13 @@ This program is to generate a team profile page. It will ask you questions about
 ## Usage
 
   While in terminal/bash within the folder you can start the program with "node index.js". It will ask you some questions then based on your answers generate your html file within the "./dist/" folder.
+
+  ![Begin](assets/images/Beginning.png)
+  ![Tests Passed](assets/images/Tests_passed.png)
+  ![Start](assets/images/Start_program.png)
+  ![Done](assets/images/Done.png)
+  ![Sample Website](assets/images/Sample_Website.png)
+
   
 
 ## License
@@ -45,6 +52,8 @@ This program is to generate a team profile page. It will ask you questions about
 
 ## Links
 
+https://github.com/Nickpodski/Team_Profile_Generator_NP - Github Repo!
+https://drive.google.com/file/d/1U4DaiBSRBxdDZzfZwZiEjxDEJCtEIJsh/view?usp=sharing - Demo Video
 
 
 
