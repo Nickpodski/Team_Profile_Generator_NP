@@ -90,8 +90,6 @@ const generateHTML = (cards) => {
 
 const generateCards = () => {
   team.forEach(ele => {
-    let a = ele;
-    console.log(a);
     switch(ele.role) {
       case "Manager":
         cards += managerHtml(ele);
@@ -106,7 +104,6 @@ const generateCards = () => {
         break;
     }
   });
-  console.log(cards);
   generateHTML(cards);
 }
 

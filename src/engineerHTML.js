@@ -7,7 +7,7 @@ const engineerHTML = (ele) => `
         <ul class="collection">
           <li class="collection-item grey darken-1">Id: ${ele.id}</li>
           <li class="collection-item grey darken-1">Email: <a href="mailto:${ele.email}">${ele.email}</a></li>
-          <li class="collection-item grey darken-1">GitHub: <a href="https://github.com/${ele.gitHub}/">${ele.gitHub}</a></li>
+          <li class="collection-item grey darken-1">GitHub: <a href="https://github.com/${ele.github}/" target="_blank">${ele.github}</a></li>
         </ul>
       </div>
     </div>
