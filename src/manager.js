@@ -6,7 +6,7 @@ const managerHtml = (ele) => `
         <span class="card-title">Manager</span>
         <ul class="collection">
           <li class="collection-item grey darken-1">Id: ${ele.id}</li>
-          <li class="collection-item grey darken-1">Email: <a href="${ele.email}">${ele.email}</a></li>
+          <li class="collection-item grey darken-1">Email: <a href="mailto:${ele.email}">${ele.email}</a></li>
           <li class="collection-item grey darken-1">Office Number: ${ele.officeNumber}</li>
         </ul>
       </div>
