@@ -7,7 +7,7 @@ const managerHtml = require('./src/manager');
 const mainHtml = require('./src/mainHtml');
 const internHtml = require('./src/intern');
 const engineerHtml = require('./src/engineerHTML');
-const engineerHTML = require('./src/engineerHTML');
+
 
 
 function questions(role) {
